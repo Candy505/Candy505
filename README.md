@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Backend-Development<br>🤝 I’m looking for help with Problem Solving, Blockchain<br>🌱 I’m currently learning Algorithms<br>💬 Ask me about my ideas !<br>⚡ Fun fact I like cats and books.
+🔭 I’m currently working on Backend-Development<br>🤝 I’m looking for help with Problem Solving, Blockchain<br>🌱 I’m currently learning Algorithms, Solidity and Node<br>💬 Ask me about my ideas !<br>⚡ Fun fact I like cats and books.
 
 
 ## 🌐 Socials:
